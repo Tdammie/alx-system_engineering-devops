@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.js" -delete
+find -minddept 1-type d | wc -|
